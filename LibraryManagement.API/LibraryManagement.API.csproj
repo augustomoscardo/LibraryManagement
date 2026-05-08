@@ -21,4 +21,8 @@
     <ProjectReference Include="..\LibraryManagement.Exceptions\LibraryManagement.Exceptions.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Controllers\" />
+  </ItemGroup>
+
 </Project>
