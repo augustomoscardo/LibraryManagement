@@ -1,4 +1,4 @@
-﻿namespace Library_Mangement.Entities;
+﻿namespace LibraryMangement.Entities;
 
 public class Book : EntityBase
 {
