@@ -1,5 +1,3 @@
 <Solution>
   <Project Path="LibraryManagement.API/LibraryManagement.API.csproj" />
-  <Project Path="LibraryManagement.Communication/LibraryManagement.Communication.csproj" />
-  <Project Path="LibraryManagement.Exceptions/LibraryManagement.Exceptions.csproj" />
 </Solution>

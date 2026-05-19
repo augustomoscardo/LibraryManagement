@@ -16,13 +16,4 @@
     <PackageReference Include="Scalar.AspNetCore" Version="2.14.11" />
   </ItemGroup>
 
-  <ItemGroup>
-    <ProjectReference Include="..\LibraryManagement.Communication\LibraryManagement.Communication.csproj" />
-    <ProjectReference Include="..\LibraryManagement.Exceptions\LibraryManagement.Exceptions.csproj" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <Folder Include="UseCases\Books\GetById\" />
-  </ItemGroup>
-
 </Project>
